@@ -1,0 +1,4 @@
+weight: 2.5
+name: 'Test 2: inorder traversal and height function'
+message: 'Your program does not pass test 2!'
+show_output: true

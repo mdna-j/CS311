@@ -1,0 +1,4 @@
+weight: 2.5
+name: 'Test 1: Heap insert and remove'
+message: 'Your program does not pass test 1!'
+show_output: true

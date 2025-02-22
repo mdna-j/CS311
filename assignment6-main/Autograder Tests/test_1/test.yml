@@ -1,0 +1,4 @@
+weight: 2.0
+name: 'Test 1: BST insertion and find function'
+message: 'Your program does not pass test 1!'
+show_output: true

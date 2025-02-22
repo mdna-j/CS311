@@ -1,0 +1,4 @@
+weight: 2.5
+name: 'Test 3: succesor function'
+message: 'Your program does not pass test 3!'
+show_output: true
