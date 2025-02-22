@@ -1,0 +1,4 @@
+weight: 1.0
+name: 'Test hybrid quick sor performance'
+message: 'Your hybrid quick sort program should performance faster!'
+show_output: true

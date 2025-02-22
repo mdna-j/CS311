@@ -1,0 +1,4 @@
+weight: 2.5
+name: 'Test insertion sort of an array'
+message: 'Your insertion sorting program does not work correctly!'
+show_output: true

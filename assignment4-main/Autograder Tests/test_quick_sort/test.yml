@@ -1,0 +1,4 @@
+weight: 2.5
+name: 'Test quick sort'
+message: 'Your quick sort program does not work correctly!'
+show_output: true

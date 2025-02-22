@@ -1,0 +1,4 @@
+weight: 1.5
+name: 'Test hybrid quick sort'
+message: 'Your hybrid quick sort program does not work correctly!'
+show_output: true
